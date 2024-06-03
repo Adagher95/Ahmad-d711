@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Ahmad-d711
-- 👀 I’m interested in Cloud
+- 👀 I’m interested in Cloud & AI
 - 🌱 I’m currently learning DevOps
 - 💞️ I’m looking to collaborate on Google Cloud Platform
 - 📫 How to reach me Ahma95dagher@gmail.com
